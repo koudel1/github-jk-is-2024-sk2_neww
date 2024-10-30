@@ -1,0 +1,15 @@
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.exe
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.deps.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.runtimeconfig.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\bin\Debug\net8.0\program000b-generator.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.AssemblyInfoInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.AssemblyInfo.cs
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.csproj.CoreCompileInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.sourcelink.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\refint\program000b-generator.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\program000b-generator.genruntimeconfig.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program000b-generator\obj\Debug\net8.0\ref\program000b-generator.dll

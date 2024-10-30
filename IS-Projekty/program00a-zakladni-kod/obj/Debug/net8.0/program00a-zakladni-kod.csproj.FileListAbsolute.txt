@@ -1,0 +1,15 @@
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\bin\Debug\net8.0\program00a-zakladni-kod.exe
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\bin\Debug\net8.0\program00a-zakladni-kod.deps.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\bin\Debug\net8.0\program00a-zakladni-kod.runtimeconfig.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\bin\Debug\net8.0\program00a-zakladni-kod.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\bin\Debug\net8.0\program00a-zakladni-kod.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.AssemblyInfoInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.AssemblyInfo.cs
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.csproj.CoreCompileInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.sourcelink.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\refint\program00a-zakladni-kod.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\program00a-zakladni-kod.genruntimeconfig.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program00a-zakladni-kod\obj\Debug\net8.0\ref\program00a-zakladni-kod.dll

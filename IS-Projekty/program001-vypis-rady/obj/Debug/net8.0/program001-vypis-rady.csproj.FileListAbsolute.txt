@@ -1,0 +1,15 @@
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\bin\Debug\net8.0\program001-vypis-rady.exe
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\bin\Debug\net8.0\program001-vypis-rady.deps.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\bin\Debug\net8.0\program001-vypis-rady.runtimeconfig.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\bin\Debug\net8.0\program001-vypis-rady.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\bin\Debug\net8.0\program001-vypis-rady.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.AssemblyInfoInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.AssemblyInfo.cs
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.csproj.CoreCompileInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.sourcelink.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\refint\program001-vypis-rady.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\program001-vypis-rady.genruntimeconfig.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program001-vypis-rady\obj\Debug\net8.0\ref\program001-vypis-rady.dll
