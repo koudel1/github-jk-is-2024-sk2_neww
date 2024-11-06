@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj": {}
+    "c:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj": {
+    "c:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj",
+        "projectUniqueName": "c:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj",
         "projectName": "program00a-zakladni-kod",
-        "projectPath": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj",
+        "projectPath": "c:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\program00a-zakladni-kod.csproj",
         "packagesPath": "C:\\Users\\kumst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\obj\\",
+        "outputPath": "c:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program00a-zakladni-kod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kumst\\AppData\\Roaming\\NuGet\\NuGet.Config"
