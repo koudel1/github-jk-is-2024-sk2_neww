@@ -1,0 +1,15 @@
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\bin\Debug\net8.0\program003b-pyramida.exe
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\bin\Debug\net8.0\program003b-pyramida.deps.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\bin\Debug\net8.0\program003b-pyramida.runtimeconfig.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\bin\Debug\net8.0\program003b-pyramida.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\bin\Debug\net8.0\program003b-pyramida.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.AssemblyInfoInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.AssemblyInfo.cs
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.csproj.CoreCompileInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.sourcelink.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\refint\program003b-pyramida.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\program003b-pyramida.genruntimeconfig.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003b-pyramida\obj\Debug\net8.0\ref\program003b-pyramida.dll

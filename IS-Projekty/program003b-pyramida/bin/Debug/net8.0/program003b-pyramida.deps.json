@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program003b-pyramida/1.0.0": {
+        "runtime": {
+          "program003b-pyramida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program003b-pyramida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
