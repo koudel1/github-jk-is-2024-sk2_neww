@@ -1,0 +1,15 @@
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\bin\Debug\net8.0\program003-obdelnik.exe
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\bin\Debug\net8.0\program003-obdelnik.deps.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\bin\Debug\net8.0\program003-obdelnik.runtimeconfig.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\bin\Debug\net8.0\program003-obdelnik.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\bin\Debug\net8.0\program003-obdelnik.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.AssemblyInfoInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.AssemblyInfo.cs
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.csproj.CoreCompileInputs.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.sourcelink.json
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\refint\program003-obdelnik.dll
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.pdb
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\program003-obdelnik.genruntimeconfig.cache
+c:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003-obdelnik\obj\Debug\net8.0\ref\program003-obdelnik.dll
