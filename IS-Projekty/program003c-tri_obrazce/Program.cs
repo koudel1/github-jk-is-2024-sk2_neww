@@ -2,16 +2,17 @@
 while(again == "a") {
     {
       // pro zobrazené tohoto obrazce je lepší když jsou 
-        Console.Write("Zadejte jak velké budou obrazce: ");
-        int velikost = int.Parse(Console.ReadLine());
-        
+        Console.Write("Zadejte jak velké budou obrazce (výška): ");
+        int vyska = int.Parse(Console.ReadLine());
+        Console.Write("Zadejte jak velké budou obrazce (šířka): ");
+        int sirka = int.Parse(Console.ReadLine());
    
-        for (int i = 0; i < velikost; i++) 
+        for (int i = 0; i < vyska; i++) 
         {
-            for (int j = 0; j < velikost; j++)  
+            for (int j = 0; j < sirka; j++)  
             {
                 // Podmínky pro vykreslení hvězdičky
-            if (j == 0 || j == velikost - 1 || j == i)
+            if (j == 0 || j == sirka - 1 || j == i)
 
                     Console.Write("*");
                 else
@@ -21,12 +22,12 @@ while(again == "a") {
         }
         Console.WriteLine();
         
-         for (int i = 0; i < velikost; i++) 
+         for (int i = 0; i < vyska; i++) 
         {
-            for (int j = 0; j < velikost; j++)  
+            for (int j = 0; j < sirka; j++)  
             {
                 // Podmínky pro vykreslení hvězdičky
-            if (j == 0 || j == velikost - 1 || j == i || j== velikost -1 -i )
+            if (j == 0 || j == sirka - 1 || j == i || j== sirka -1 -i )
 
                     Console.Write("*");
                 else
