@@ -1,0 +1,15 @@
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\bin\Debug\net8.0\program003c-tri_obrazce.exe
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\bin\Debug\net8.0\program003c-tri_obrazce.deps.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\bin\Debug\net8.0\program003c-tri_obrazce.runtimeconfig.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\bin\Debug\net8.0\program003c-tri_obrazce.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\bin\Debug\net8.0\program003c-tri_obrazce.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.AssemblyInfoInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.AssemblyInfo.cs
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.csproj.CoreCompileInputs.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.sourcelink.json
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\refint\program003c-tri_obrazce.dll
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.pdb
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\program003c-tri_obrazce.genruntimeconfig.cache
+C:\Users\kumst\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\program003c-tri_obrazce\obj\Debug\net8.0\ref\program003c-tri_obrazce.dll
