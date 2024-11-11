@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\kumst\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uzivatel\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
+      "projectUniqueName": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
       "projectName": "program006-analyza-textu",
-      "projectPath": "C:\\Users\\Uzivatel\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uzivatel\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\obj\\",
+      "projectPath": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
+      "packagesPath": "C:\\Users\\kumst\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kumst\\IS-2024\\github-jk-is-2024-sk2_neww\\IS-Projekty\\program006-analyza-textu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kumst\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -18,7 +18,7 @@ string again = "a";
             Console.WriteLine(mytext.Length);
             Console.WriteLine(mytext[mytext.Length-1]);
             
-
+           
             string samohlasky = "AaeEiIoOuUáÁéÉíÍóÓúÚůŮ";
             string souhlasky = "bBcCčČdDďĎfFgGhHjJkKlLmMnNpPqQrRřŘsSšŠtTťŤvVwWxXyYzZ";
             string cislice = "0123456789";
@@ -38,11 +38,14 @@ string again = "a";
                 else if(cislice.Contains(znak)){
                     pocetCislic++;
                 }
+                else{
+                    pocetOstatnich++;
+                }
             }
             Console.WriteLine("\n\n Počet samohlásek: {0}",pocetSamohlasek);
             Console.WriteLine("\n Počet souhlásek: {0}",pocetSouhlasek);
             Console.WriteLine("\n Počet číslic: {0}",pocetCislic);
-            Console.WriteLine("\n Počet ostatních znaků: ",pocetOstatnich);
+            Console.WriteLine("\n Počet ostatních znaků: {0}", pocetOstatnich);
 
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
