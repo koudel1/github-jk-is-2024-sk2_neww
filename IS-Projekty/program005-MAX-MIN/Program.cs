@@ -54,12 +54,23 @@ string again = "a";
              int min = myArray[0];
              int posMax = 0;
              int posMin = 0;
+             int maxcount = 1;
+             int mincount = 1;
+             string maxpozice = " ";
+             string minpozice = " ";
 
              for(int i=1 ; i < n; i++){
+                if(myArray[i] == max){
+                    maxcount++;
+                    maxpozice+= i+ "; ";
+                }
+                if(myArray[i] == min){
+                    mincount++;
+                    minpozice+= i+ "; ";
+                }
                 if(myArray[i] > max){
                     max = myArray[i];
                     posMax = i;
-
                 }
                  if(myArray[i] < min){
                     min = myArray[i];
@@ -67,9 +78,13 @@ string again = "a";
                 }
              }  
             Console.WriteLine("\n maximální číslo: {0}",max, "\n na pozici: {0}", posMax);
-            Console.WriteLine("\n na pozici: {0}", posMax);
-            Console.WriteLine("\n minimální číslo: {0}",min, "\n na pozici: {0}", posMin);
-            Console.WriteLine("\n na pozici: {0}", posMin);
+            Console.WriteLine("na pozici: {0}", posMax);
+            Console.WriteLine("minimální číslo: {0}",min, "\n na pozici: {0}", posMin);
+            Console.WriteLine("na pozici: {0}", posMin);
+            Console.WriteLine("maximální hodnota je zde : {0}x", maxcount);
+            Console.WriteLine("maximální hodnoty jsou na pozicích :" + maxpozice);
+            Console.WriteLine("minimální hodnota je zde : {0}x", mincount);
+            Console.WriteLine("maximální hodnoty jsou na pozicích:"+ minpozice);
 
 
 
