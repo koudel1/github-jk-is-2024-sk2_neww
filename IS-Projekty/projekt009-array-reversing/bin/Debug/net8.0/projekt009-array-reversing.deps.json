@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projekt009-array-reversing/1.0.0": {
+        "runtime": {
+          "projekt009-array-reversing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projekt009-array-reversing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

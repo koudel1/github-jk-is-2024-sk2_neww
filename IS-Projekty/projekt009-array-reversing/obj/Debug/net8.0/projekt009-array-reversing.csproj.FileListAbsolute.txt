@@ -1,0 +1,15 @@
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\bin\Debug\net8.0\projekt009-array-reversing.exe
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\bin\Debug\net8.0\projekt009-array-reversing.deps.json
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\bin\Debug\net8.0\projekt009-array-reversing.runtimeconfig.json
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\bin\Debug\net8.0\projekt009-array-reversing.dll
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\bin\Debug\net8.0\projekt009-array-reversing.pdb
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.AssemblyInfo.cs
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.sourcelink.json
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.dll
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\refint\projekt009-array-reversing.dll
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.pdb
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\projekt009-array-reversing.genruntimeconfig.cache
+C:\Users\Uzivatel\IS-2024\github-jk-is-2024-sk2_neww\IS-Projekty\projekt009-array-reversing\obj\Debug\net8.0\ref\projekt009-array-reversing.dll
